@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/agile-portal/static/css/main.400a6551.css",
-    "main.js": "/agile-portal/static/js/main.f2b78db9.js",
+    "main.js": "/agile-portal/static/js/main.a9a89840.js",
     "static/js/787.e37991e0.chunk.js": "/agile-portal/static/js/787.e37991e0.chunk.js",
     "static/media/pie1.png": "/agile-portal/static/media/pie1.9ed893dada25bf2e9d31.png",
     "static/media/pie2.png": "/agile-portal/static/media/pie2.4ce0a41008c7f57af994.png",
     "index.html": "/agile-portal/index.html",
     "main.400a6551.css.map": "/agile-portal/static/css/main.400a6551.css.map",
-    "main.f2b78db9.js.map": "/agile-portal/static/js/main.f2b78db9.js.map",
+    "main.a9a89840.js.map": "/agile-portal/static/js/main.a9a89840.js.map",
     "787.e37991e0.chunk.js.map": "/agile-portal/static/js/787.e37991e0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.400a6551.css",
-    "static/js/main.f2b78db9.js"
+    "static/js/main.a9a89840.js"
   ]
 }
